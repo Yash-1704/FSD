@@ -1,0 +1,22 @@
+[
+  {
+    "id": "shipping",
+    "question": "How long does shipping take?",
+    "answer": "Orders placed before 3 PM ship the same day and typically arrive within 3–5 business days."
+  },
+  {
+    "id": "returns",
+    "question": "What's your return policy?",
+    "answer": "Unused items can be returned within 30 days of delivery for a full refund."
+  },
+  {
+    "id": "tracking",
+    "question": "Can I track my order?",
+    "answer": "Yes — you'll get a tracking link by email as soon as your order ships."
+  },
+  {
+    "id": "payment",
+    "question": "What payment methods are accepted?",
+    "answer": "This is a demo storefront, so checkout is simulated and no real payment is collected."
+  }
+]
